@@ -1,0 +1,9 @@
+dist
+dist/
+
+.env
+*.env
+/.env
+
+temp
+temp/
